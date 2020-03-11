@@ -52,7 +52,7 @@ $(function () {
           .'<td class="photo"></td>'
           .'<td class="name"></td>'
           .'<td class="time"></td>'
-          .'<td class="speed"></td>';
+          .'<td class="speed"></td>'
           .'<td class="place"><span class="sp"/></td>'
           .'</tr>'."\n";
   }
